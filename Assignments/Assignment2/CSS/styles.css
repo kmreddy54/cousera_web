@@ -15,11 +15,8 @@
 		width:100%;
 	}
 
-	h2 {
+	h2{
 		margin:0;
-	}
-
-	h2 span{
 		display: block;
 		float: right;
 		background-color: pink;
@@ -91,5 +88,6 @@
 			float: left;
 			width:100%;
 		}
+
 
 	}
