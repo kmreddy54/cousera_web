@@ -1,4 +1,4 @@
-var arr = ["akijfka","peter","kldjf","Johar","kahjr","uoeew","qkdkj","joker","uyahek"];
+var arr = ["Yaakov","John","jen","Jason","Paul","Frank","Larry","Paula","Laura","Jim"];
 
 for(i in arr) {
   if(arr[i][0]==='j' || arr[i][0]==="J"){
